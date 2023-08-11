@@ -1,0 +1,35 @@
+û80û01û07û03û08        EMPRESA DE DEMONSTRAÇÃO         û09
+
+û12û08FATURA SIMPLIFICADA û13û09
+û13ORIGINAL                           PST:1
+DATA 2021/07/27 - 20:39          Nº A/18
+Moeda:EUR
+ 
+Cliente: Consumidor final
+Morada.: 
+Cont.Nº: ---------------
+
+ Artigo      Qtd     Preço      Valor
+--------- --------- -------- -----------
+TESTE                                   
+23%          59,000 x   1,00 =     59,00
+#059----- --------- -------- -----------
+û08û27TOTAL.......................:      59,00û28
+û28û09Numerário...................:      59,00
+Troco.......................:       0,00
+      IVA Incluido à taxa indicada      
+
+     Valor Sujeito  Taxa  Valor IVA 
+    --------------- ----- -----------
+              47.97 23.00       11.03
+
+----------------------------------------
+FXVC-Processado por programa certificado
+          Nº 1632/AT - 1 A/18           
+----------------------------------------
+Opr: João Silva                         
+ 
+        OBRIGADO - VOLTE SEMPRE         
+
+û80û00
+ 

@@ -1,0 +1,7 @@
+IP da Maquina
+192.168.1.187
+192.168.1.10
+Identificaçao do POS
+BarPiscina
+1234
+1234
